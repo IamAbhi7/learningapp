@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Desktop\AZ-204\first\WebApplication1\bin\Publish\WebApplication1.exe
+C:\Users\Lenovo\OneDrive\Desktop\AZ-204\first\WebApplication1\bin\Publish\appsettings.Development.json
+C:\Users\Lenovo\OneDrive\Desktop\AZ-204\first\WebApplication1\bin\Publish\appsettings.json
+C:\Users\Lenovo\OneDrive\Desktop\AZ-204\first\WebApplication1\bin\Publish\WebApplication1.dll
+C:\Users\Lenovo\OneDrive\Desktop\AZ-204\first\WebApplication1\bin\Publish\WebApplication1.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\AZ-204\first\WebApplication1\bin\Publish\WebApplication1.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\AZ-204\first\WebApplication1\bin\Publish\WebApplication1.pdb
